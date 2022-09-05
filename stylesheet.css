@@ -1,7 +1,7 @@
 
 .class-1 {
     background-color: rgb(255, 102, 153);
-    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 #id-1 {
@@ -17,4 +17,19 @@
     background-color: rgb(153, 255, 102);
     font-size: 24px;
     font-weight: 700;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    background-color: yellow;
+}
+
+.button1,
+.button2 {
+    font-size: 28px;
+    font-family: "Helevetica", "Times New Roman", sans-serif;
 }
