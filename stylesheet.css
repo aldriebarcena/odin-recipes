@@ -33,3 +33,13 @@
     font-size: 28px;
     font-family: "Helevetica", "Times New Roman", sans-serif;
 }
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
